@@ -45,7 +45,8 @@ class CompanyTestDataModel extends CompanyDataModel {
 		$this->pagweb = "www.misitio.com";
 		$this->noint = "A";
 		$this->noext = "1000";
-		$this->regfisc = "F";
+		$this->regfisc = "";
+		$this->contribuyentType = "F";		
 		$this->bd = "era_db_test";
 	}
 }
