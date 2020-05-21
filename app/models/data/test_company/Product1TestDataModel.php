@@ -27,6 +27,6 @@ class Product1TestDataModel {
 		$this->branchOffice = "SUC1";
 		$this->numberCash = "1";
 		$this->isForSale = 1;
-		$this->pathIMG = "http://enlacew.com.mx/imgs/sabritas.jpg";
+		$this->pathIMG = "https://sitioweb.lat/imgs/sabritas.jpg";
 	}
 }
