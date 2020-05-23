@@ -27,6 +27,6 @@ class Product5TestDataModel {
 		$this->branchOffice = "SUC1";
 		$this->numberCash = "1";
 		$this->isForSale = 1;
-		$this->pathIMG = "https://sitioweb.lat/imgs/jamonfood.jpg";
+		$this->pathIMG = "http://easyretail.com.mx/company_test/products/jamonfood.jpg";
 	}
 }
