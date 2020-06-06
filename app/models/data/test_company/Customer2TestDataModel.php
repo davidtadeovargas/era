@@ -5,7 +5,6 @@ namespace App\models\data\test_company;
 class Customer2TestDataModel {
 
 	public $companyCode;
-	public $ser;
 	public $nom;
 	public $tel;
 	public $calle;
@@ -28,7 +27,6 @@ class Customer2TestDataModel {
 
 		//Create the object		
         $this->companyCode="EMP2";
-        $this->ser="EMP";
         $this->nom="Distribuidora sajor de mexico s.a de c.v.";
         $this->tel="333050506959";
         $this->calle="Av del venado";
