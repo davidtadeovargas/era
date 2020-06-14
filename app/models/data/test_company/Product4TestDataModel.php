@@ -5,6 +5,7 @@ namespace App\models\data\test_company;
 class Product4TestDataModel {
 
 	public $code;
+	public $name;
 	public $keySAT;
 	public $unit;
 	public $codeTax;
@@ -19,7 +20,8 @@ class Product4TestDataModel {
 
 		//Create the object
 		$this->code = 'DANFRES15';
-		$this->keySAT = 'DANFRES15SAT';
+		$this->name = 'Danone fresa liquido 15ml';
+		$this->keySAT = '01010101';
 		$this->unit = "PIEZA";
 		$this->codeTax = "IVA";
 		$this->description = "Danone fresa liquido 15ml";

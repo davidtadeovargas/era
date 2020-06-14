@@ -5,13 +5,14 @@ namespace App\models\data\test_company;
 class Product1TestDataModel {
 
 	public $code;
+	public $name;
 	public $keySAT;
 	public $unit;
 	public $codeTax;
 	public $description;
 	public $estac;
 	public $sucu;
-	public $nocaj;
+	public $nocaj;	
 	public $isForSale;
 	public $pathIMG;
 
@@ -19,7 +20,8 @@ class Product1TestDataModel {
 
 		//Create the object
 		$this->code = 'SABRI500';
-		$this->keySAT = 'SABRI500SAT';
+		$this->name = 'Papas sabritas 500gm';
+		$this->keySAT = '01010101';
 		$this->unit = "PIEZA";
 		$this->codeTax = "IVA";
 		$this->description = "Papas sabritas 500gm";
