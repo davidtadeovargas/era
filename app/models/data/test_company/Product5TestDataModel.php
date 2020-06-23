@@ -15,6 +15,8 @@ class Product5TestDataModel {
 	public $nocaj;
 	public $isForSale;
 	public $pathIMG;
+	public $priceList1;
+	public $taxes;
 
 	public function __construct(){
 
@@ -30,5 +32,7 @@ class Product5TestDataModel {
 		$this->nocaj = "1";
 		$this->isForSale = 1;
 		$this->pathIMG = "http://easyretail.com.mx/company_test/products/jamonfood.jpg";
+		$this->priceList1 = 15.00;
+		$this->taxes = array('IVA');
 	}
 }
