@@ -36,10 +36,10 @@ class CompanyTestDataModel extends CompanyDataModel {
 		$this->lugexp = "Guadalajara";
 		$this->calle = "Calle de pruebas";				
 		$this->col = "Colonia de pruebas";				
-		$this->CP = "44190";
+		$this->CP = "36000";
 		$this->ciu = "Guadalajara";		
 		$this->estad = "Jalisco";
-		$this->pai = "Mexico";
+		$this->pai = "MEX";
 		$this->RFC = "XAXX010101000";
 		$this->corr = "email@hotmail.com";
 		$this->pagweb = "www.misitio.com";
