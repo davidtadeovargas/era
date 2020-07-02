@@ -17,6 +17,7 @@ class Product5TestDataModel {
 	public $pathIMG;
 	public $priceList1;
 	public $taxes;
+	public $codeLine;
 
 	public function __construct(){
 
@@ -34,5 +35,6 @@ class Product5TestDataModel {
 		$this->pathIMG = "http://easyretail.com.mx/company_test/products/jamonfood.jpg";
 		$this->priceList1 = 15.00;
 		$this->taxes = array('IVA');
+		$this->codeLine = "SYS";
 	}
 }
