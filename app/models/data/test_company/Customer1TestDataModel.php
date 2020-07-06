@@ -32,10 +32,10 @@ class Customer1TestDataModel {
         $this->calle = "Av insurgentes sur";
         $this->col = "Condesa";
         $this->curp = "VAVY910708LNE";
-        $this->CP = "445959";
+        $this->CP = "47886";
         $this->ciu = "DF";
         $this->estad = "DF";
-        $this->pai = "MEXICO";
+        $this->pai = "MEX";
         $this->RFC = "VAVY910708LNE";
         $this->pagweb1 = "www.distribuidoramercantil.com";
         $this->noint = "10";

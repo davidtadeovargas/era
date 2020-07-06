@@ -32,10 +32,10 @@ class Customer5TestDataModel {
         $this->calle="Mexicaltzingo";
         $this->col="Americana";
         $this->curp="VAVY910708LNA";
-        $this->CP="45647";
+        $this->CP="47886";
         $this->ciu="GUADALAJARA";
         $this->estad="JALISCO";
-        $this->pai="MEXICO";
+        $this->pai="MEX";
         $this->RFC="VAVY910708LNA";
         $this->pagweb1="www.cartulinasyarticulosoficina.com";
         $this->noint="10";

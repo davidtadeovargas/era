@@ -31,10 +31,10 @@ class Supplier2TestDataModel {
         $this->phone="333050506959";
         $this->street="Av del venado";
         $this->colony="Ayala";
-        $this->cp="459599";
+        $this->cp="47886";
         $this->city="GUADALAJARA";
         $this->estate="JALISCO";
-        $this->country="MEXICO";
+        $this->country="MEX";
         $this->rfc="VAVY910708LND";
         $this->webpage1="www.sajortusistema.com";
         $this->interiorNumber="10";

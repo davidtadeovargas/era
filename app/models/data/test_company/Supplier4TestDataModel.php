@@ -31,10 +31,10 @@ class Supplier4TestDataModel {
         $this->phone="3348588930";
         $this->street="Av del iman";
         $this->colony="Insurgentes";
-        $this->cp="5886885";
+        $this->cp="47886";
         $this->city="DF";
         $this->estate="DF";
-        $this->country="MEXICO";
+        $this->country="MEX";
         $this->rfc="VAVY910708LNB";
         $this->webpage1="www.borradoresdemexico.com";
         $this->interiorNumber="10";

@@ -31,10 +31,10 @@ class Supplier5TestDataModel {
         $this->phone="3316384884";
         $this->street="Mexicaltzingo";
         $this->colony="Americana";
-        $this->cp="45647";
+        $this->cp="47886";
         $this->city="GUADALAJARA";
         $this->estate="JALISCO";
-        $this->country="MEXICO";
+        $this->country="151";
         $this->rfc="VAVY910708LNA";
         $this->webpage1="www.cartulinasyarticulosoficina.com";
         $this->interiorNumber="10";

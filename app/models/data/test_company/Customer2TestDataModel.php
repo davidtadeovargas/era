@@ -32,10 +32,10 @@ class Customer2TestDataModel {
         $this->calle="Av del venado";
         $this->col="Ayala";
         $this->curp="VAVY910708LND";
-        $this->CP="459599";
+        $this->CP="47886";
         $this->ciu="GUADALAJARA";
         $this->estad="JALISCO";
-        $this->pai="MEXICO";
+        $this->pai="MEX";
         $this->RFC="VAVY910708LND";
         $this->pagweb1="www.sajortusistema.com";
         $this->noint="10";

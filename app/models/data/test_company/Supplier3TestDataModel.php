@@ -31,10 +31,10 @@ class Supplier3TestDataModel {
         $this->phone="3395999400";
         $this->street="Camino al iteso";
         $this->colony="Colonia del sol";
-        $this->cp="45776";
+        $this->cp="47886";
         $this->city="ZAPOPAN";
         $this->estate="JALISCO";
-        $this->country="MEXICO";
+        $this->country="MEX";
         $this->rfc="VAVY910708LNC";
         $this->webpage1="www.bictupluma.com";
         $this->interiorNumber="10";

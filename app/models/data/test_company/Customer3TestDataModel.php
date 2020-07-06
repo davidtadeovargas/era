@@ -32,10 +32,10 @@ class Customer3TestDataModel {
         $this->calle="Camino al iteso";
         $this->col="Colonia del sol";
         $this->curp="VAVY910708LNC";
-        $this->CP="45776";
+        $this->CP="47886";
         $this->ciu="ZAPOPAN";
         $this->estad="JALISCO";
-        $this->pai="MEXICO";
+        $this->pai="MEX";
         $this->RFC="VAVY910708LNC";
         $this->pagweb1="www.bictupluma.com";
         $this->noint="10";

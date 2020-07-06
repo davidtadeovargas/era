@@ -31,10 +31,10 @@ class Supplier1TestDataModel {
         $this->phone = "3314404040";
         $this->street = "Av insurgentes sur";
         $this->colony = "Condesa";        
-        $this->cp = "445959";
+        $this->cp = "47886";
         $this->city = "DF";
         $this->estate = "DF";
-        $this->country = "MEXICO";
+        $this->country = "MEX";
         $this->rfc = "VAVY910708LNE";
         $this->webpage1 = "www.distribuidoramercantil.com";
         $this->interiorNumber = "10";
