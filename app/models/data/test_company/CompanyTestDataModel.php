@@ -32,8 +32,7 @@ class CompanyTestDataModel extends CompanyDataModel {
 		//Create the object
 		$this->nom = "Mi empresa de prueba";
 		$this->codemp = uniqid('TESTERA_');
-		$this->tel = "0000000000";
-		$this->lugexp = "Guadalajara";
+		$this->tel = "0000000000";		
 		$this->calle = "Calle de pruebas";				
 		$this->col = "Colonia de pruebas";				
 		$this->CP = "36000";
@@ -45,7 +44,8 @@ class CompanyTestDataModel extends CompanyDataModel {
 		$this->pagweb = "www.misitio.com";
 		$this->noint = "A";
 		$this->noext = "1000";
-		$this->regfisc = "";
+		$this->lugexp = "20168";
+		$this->regfisc = "603";
 		$this->contribuyentType = "F";		
 		$this->bd = "era_db_test";
 	}
