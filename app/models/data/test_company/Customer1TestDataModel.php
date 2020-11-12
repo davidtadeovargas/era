@@ -41,8 +41,10 @@ class Customer1TestDataModel {
         $this->noint = "10";
         $this->noext = "1515";
         $this->list = 1;
+        $this->limtcred = 10000;
+        $this->diacred = 30;
         $this->estac = "ESTAC1";
         $this->sucu = "SUC1";
-        $this->nocaj = "CAJ1";
+        $this->nocaj = "CAJ1";        
 	}
 }
